@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Luimarco98
 - 👀 I’m interested in history and geography
-- 🌱 I’m currently learning algortithms  
-- 💞️ I’m looking to collaborate on research in cryptography
+- 🌱 I’m currently learning dynamic programming  
+- 💞️ I’m looking to collaborate international mobility
 - 📫 How to reach me: search my ig profile luimarco_12
-- 
+ 
 
 <!---
 Luimarco98/Luimarco98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
