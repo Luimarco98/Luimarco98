@@ -2,7 +2,7 @@
 - 👀 I’m interested in history and geography
 - 🌱 I’m currently learning Data Science and Computer Networks  
 - 💞️ I seek to add value to my ventures
-- 📫 How to reach me: search my ig profile luimarco_12
+- 📫 How to reach me: search my instagram profile luimarco_12
  
 
 <!---
