@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luimarco98
 - 👀 I’m interested in history and geography
 - 🌱 I’m currently learning dynamic programming  
-- 💞️ I’m looking to collaborate on international students' mobility
+- 💞️ I look for new ways of doing business
 - 📫 How to reach me: search my ig profile luimarco_12
  
 
